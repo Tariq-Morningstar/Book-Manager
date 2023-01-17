@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "BookList": [
+    {
+      "BookName": "Attitude is Everything",
+      "AuthorName": "Jeff Keller",
+      "IssueDate": "2023-01-16T18:30:00.000Z",
+      "Price": 56,
+      "id": 1
+    },
+    {
+      "BookName": "jgkgk",
+      "AuthorName": "okk",
+      "IssueDate": "2023-01-10T18:30:00.000Z",
+      "Price": 80,
+      "id": 2
+    }
+  ]
+}
